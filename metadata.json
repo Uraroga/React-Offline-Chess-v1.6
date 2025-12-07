@@ -1,0 +1,5 @@
+{
+  "name": "React Offline Chess v1.6",
+  "description": "A modern, offline-capable chess application using React, Tailwind CSS, and chess.js with drag-and-drop functionality.",
+  "requestFramePermissions": []
+}
