@@ -145,6 +145,10 @@ export const InfoPanel: React.FC<InfoPanelProps> = ({ gameState, onCopy, copiedT
         <Coffee size={18} className="text-amber-600 group-hover:scale-110 transition-transform" />
         Offri un caffè a uraroga
       </a>
+
+      <p className="text-[10px] text-slate-400 text-center px-2">
+        Uses your Google AI Studio account. No data is collected
+      </p>
     </div>
   );
 };
